@@ -3,7 +3,7 @@
 
 - 🖥 Sou técnico em informática e atualmente curso Ciências da Computação.
 - 🌐 Também estudo Desenvolvimento Web Full Stack.
-- 😁 Tenho 18 anos e moro em Itupeva-SP.
+- 😄 Tenho 18 anos e moro em Itupeva-SP.
 - 🚀Em busca de uma primeira oportunidade no mercado de trabalho na área de desenvolvimento!
 
 <div>
