@@ -3,6 +3,7 @@
 
 - 🖥 Sou técnico em informática e atualmente curso Ciências da Computação.
 - 🌐 Também sou estudante de Desenvolvimento Web Full Stack.
+- 😁 Em busca de uma primeira oportunidade no mercado de trabalho na área de desenvolvimento!
 
 <div>
 <a href="https://github.com/ThiKoiama">
