@@ -1,4 +1,4 @@
-## Olá, me chamo Thiago! 
+## Olá, me chamo Thiago Koiama! 
 ### Bem vindo ao meu perfil do GitHub 👋
 
 - 🖥 Sou técnico em informática e atualmente curso Ciências da Computação.
