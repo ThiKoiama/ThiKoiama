@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil do GitHub 👋
 
 - 🖥 Sou técnico em informática e atualmente curso Ciências da Computação.
-- 🌐 Também estudo Desenvolvimento Web Full Stack.
+- 🌐 Estudante de Desenvolvimento Web Full Stack.
 - 😄 Tenho 19 anos e moro em Itupeva-SP.
 - 🚀 Em busca de uma primeira oportunidade no mercado de trabalho na área de desenvolvimento!
 
