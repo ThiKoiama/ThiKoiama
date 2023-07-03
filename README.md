@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+me+chamo+Thiago+Koiama!)](https://git.io/typing-svg)
 
-Bem vindo ao meu perfil do GitHub 👋
+##Bem vindo ao meu perfil do GitHub 👋
 
 - 🖥 Sou técnico em informática e atualmente curso Ciências da Computação.
 - 🌐 Também estudo Desenvolvimento Web Full Stack.
