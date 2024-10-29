@@ -3,7 +3,7 @@
 
 - 🖥 Sou técnico em informática e atualmente curso Ciências da Computação.
 - 🚀 Estudante de Desenvolvimento Web Full Stack.
-- 😄 Tenho 20 anos e moro em Itupeva-SP.
+- 😄 Tenho 21 anos e moro em Itupeva-SP.
 
 <div>
 <a href="https://github.com/ThiKoiama">
