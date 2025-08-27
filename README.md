@@ -2,7 +2,7 @@
 ### Bem vindo(a) ao meu perfil do GitHub 👋
 
 - 🖥 Sou técnico em informática e bacharel em Ciências da Computação.
-- 🚀 Estudante de Desenvolvimento Web Full Stack.
+- 🚀 Desenvolvedor Web Full Stack e Mobile.
 - 😄 Tenho 21 anos e moro em Itupeva-SP.
 
 <div>
@@ -22,9 +22,11 @@
 <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
-<img height="45px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <img height="45px" src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" />
 <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+<img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 </div>
   
 ### Contato:
