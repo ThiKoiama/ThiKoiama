@@ -5,12 +5,6 @@
 - 🚀 Desenvolvedor Web Full Stack e Mobile.
 - 😄 Tenho 22 anos e moro em Itupeva-SP.
 
-<div>
-<a href="https://github.com/ThiKoiama">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiKoiama&layout=compact&langs_count=7&theme=dracula"/>
-
-</div>
-
 ### Tecnologias que estudo/trabalho atualmente:
 
 <div>
