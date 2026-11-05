@@ -3,7 +3,7 @@
 
 - 🖥 Sou técnico em Informática e bacharel em Ciências da Computação.
 - 🚀 Desenvolvedor Web Full Stack e Mobile.
-- 😄 Tenho 22 anos e moro em Itupeva-SP.
+- 😄 Tenho 23 anos e moro em Itupeva-SP.
 
 ### Tecnologias que estudo/trabalho atualmente:
 
